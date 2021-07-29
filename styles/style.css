@@ -261,7 +261,7 @@
   height: 877px;
   background-repeat: no-repeat;
   right: -210px;
-  top: 0; 
+  top: 0;
   position: absolute;
   z-index: -1;
 }
@@ -296,7 +296,6 @@
 }
 
 .footer__autor {
-  margin: 0;
   line-height: 25px;
   font-size: 18px;
   margin: 18px 0;
