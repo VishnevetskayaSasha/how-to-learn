@@ -1,13 +1,12 @@
 .video__iframe {
-  margin-top: 50px; 
-  position: absolute;
-  
+  width: 515px;
+  height: 316px;
+  border: 0; 
+  position: relative;
+  top: 50px;
 }
 
 .video__iframe:first-child {
-  right: 535px;
+  margin-right: 20px;
 }
 
-.video__iframe:last-child {
-  left: 535px;
-}
